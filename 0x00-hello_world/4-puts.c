@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 /**
- * My first bit of code
+ * main - entry 
  *   
- * Going to stick around
+ * return: 0
  */
 
 int main(void)
