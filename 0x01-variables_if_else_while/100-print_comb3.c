@@ -3,7 +3,7 @@
 /**
  * main - main entry
  * main prints combinations between 00 to 89
- * Returns: 0
+ * Return: 0
  */
 int main(void)
 {
