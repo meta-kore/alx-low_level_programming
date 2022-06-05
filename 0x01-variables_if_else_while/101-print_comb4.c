@@ -3,7 +3,7 @@
 /**
  * main - main entry
  * main prints numers between 012 and 789
- * Returns: 0
+ * Return: 0
  */
 int main(void)
 {
