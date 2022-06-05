@@ -6,7 +6,7 @@
  * main - main entry
  * return: 0
  */
-int main(void)
+int void(main)
 {
 	char alp[52] = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
