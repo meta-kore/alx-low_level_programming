@@ -1,10 +1,9 @@
 #include "main.h"
 
 /**
- * main - int _isalpha is a prototype function that.
- * _isalpha - shows 1 if the input is a letter, otherwise shows 0.
+ * int _isalpha shows 1 if the input is a
+ * letter, other cases shows 0
  * @c: The character in ASCII code
- *
  * Return: 1 for letters. 0 for the rest.
  */
 int _isalpha(int c)
