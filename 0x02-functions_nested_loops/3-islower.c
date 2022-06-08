@@ -3,6 +3,7 @@
 /**
  * int _islower is a prototype function.
  * _islower: checks for lowercase char.
+ * _islower: comes and goes.
  * @c: in ACSII code.
  * Return: 1 if c  is lowercase, 0 otherwise.
  */
