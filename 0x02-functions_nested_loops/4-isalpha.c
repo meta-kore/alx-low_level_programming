@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * int _isalpha: prototype function.
- * _isalpha - Shows 1 if the input is a letter, otherwise shows 0.
+ * int _isalpha is a prototype function that.
+ * _isalpha - shows 1 if the input is a letter, otherwise shows 0.
  *
  * @c: The character in ASCII code
  *
@@ -10,6 +10,8 @@
  */
 
 int _isalpha(int c)
+
+	/* int _isalpha(int c) checks for lowercase */
 {
 	if ((c >= 97 && c <= 122) || (c >= 65 && c <= 90))
 	{
