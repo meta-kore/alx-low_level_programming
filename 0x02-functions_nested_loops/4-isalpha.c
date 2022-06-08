@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *
+ * int _isalpha: prototype function.
  * _isalpha - Shows 1 if the input is a letter, otherwise shows 0.
  *
  * @c: The character in ASCII code
