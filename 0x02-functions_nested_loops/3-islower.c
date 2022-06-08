@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * int _islower checks for lowercase char
- * Returns 1 if c  is lowercase
- * Returns 0 otherwise
+ * _islower checks for lowercase char.
+ * int c in ACSII code
+ * Return: 1 if c  is lowercase, 0 otherwise.
  */
 int _islower(int c)
 {
