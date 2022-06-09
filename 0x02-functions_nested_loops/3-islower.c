@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * int _islower shows 1 if the input is
+ * _islower shows 1 if the input is
  * a lowercase character.
- * int _islower: Is a prototype function. 
+ * _islower: Is a prototype function.
  * @c: The character in ASCII code
  * Return: 1 for lowercase character. 0 for the rest.
  */
