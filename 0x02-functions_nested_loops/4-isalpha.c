@@ -1,8 +1,9 @@
 #include "main.h"
 
 /**
- * int _isalpha shows 1 if the input is a
+ * _isalpha - _isalpha shows 1 if the input is a
  * letter, other cases shows 0
+ * int _isalpha: prototype function
  * @c: The character in ASCII code
  * Return: 1 for letters. 0 for the rest.
  */
