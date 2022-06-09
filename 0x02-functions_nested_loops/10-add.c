@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * int add - adds two integers and returns
+ * add - adds two integers and returns
  * the result.
- *
+ * int add: Prototype function.
  * @a: number one.
  * @b: number two.
  * Return: Add of number one and number two.
