@@ -2,9 +2,9 @@
 
 /**
  * print_line - prints straight line n times.
- * Proto: type
+ * input: n
  * @n: times the line is printed.
- * Return: no return
+ * Return: null
  */
  void print_line(int n)
 {
