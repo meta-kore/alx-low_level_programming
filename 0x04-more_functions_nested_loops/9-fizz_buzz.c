@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "main.h"
 
 /**
  * main - prints 1 to 100 and Fizz Buzz each numbers of 3 and 5.
@@ -28,7 +29,8 @@ int main(void)
 		{
 			printf(" %d", n);
 		}
-		printf("\n");
-		return (0);
 	}
+	printf("\n");
+	return (0);
 }
+	
