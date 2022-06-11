@@ -4,6 +4,7 @@
  * main - prints largest prime number
  * Return: zero
  */
+int main(void)
 {
 	long int n, fp;
 
