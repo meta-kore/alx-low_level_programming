@@ -2,6 +2,7 @@
 
 /**
  * print_line - prints straight line n times.
+ * Proto: type
  * @n: times the line is printed.
  * Return: no return
  */
