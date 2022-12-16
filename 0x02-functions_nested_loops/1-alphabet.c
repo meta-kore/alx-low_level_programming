@@ -2,8 +2,8 @@
 #include "main.h"
 
 /*
- * print_alphabet - Function that prints alphabets.
- * Descripion: to print alphabets
+ * main - Function that prints alphabets.
+ * print_alphabet: print alphabets
  * Return: Always 0
  */
 
