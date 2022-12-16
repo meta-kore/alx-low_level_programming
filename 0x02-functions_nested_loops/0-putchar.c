@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- *
+ * Int _putchar: prints _putchar
  * Main: entry point
  * Description: This program prints _putchar
  * Return: Always 0 (success)
