@@ -1,6 +1,6 @@
 #include "main.h"
 
-/**
+/*
  * _isupper - checks if parameter is an uppercase character.
  * Proto: type
  * @c: input character
@@ -10,6 +10,7 @@
 int _isupper(int c)
 {
 	if (c >= 65 && c <= 90)
+
 	{
 		return(1);
 	}
